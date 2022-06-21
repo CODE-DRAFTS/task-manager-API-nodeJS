@@ -1,10 +1,11 @@
 # task-manager-API-nodeJS
 a RESTFUL API built with nodeJS to demonstrate CRUD operations on a
-mongoDB database.
+mongoDB database. <br/>
+check out the live app [here](https://lets-get-tasked.herokuapp.com/)
 
 ![Screenshot 2022-06-21 152116](https://user-images.githubusercontent.com/74365673/174797799-7cbcdd79-e3d8-4444-a35b-6028dffc4130.png)
 
-check out the live app [here](https://lets-get-tasked.herokuapp.com/)
+
 
 
 ## HOW TO GET STARTED
